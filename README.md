@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     hi, im purpledan 
-    <img src="/assets/konakonagifs-sleeping.gif" alt="Hakase Shinonome sleeping" width="50" height="50">
+    <img src="/assets/konakonagifs-sleeping.gif" alt="Hakase Shinonome sleeping" width="60" height="60">
   </h1>
 </div>
 
