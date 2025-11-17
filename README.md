@@ -1,1 +1,1 @@
-![Ryo Yamada eating leaves]([https://tenor.com/view/yamada-ryou-yamada-ryo-ryo-yamada-ryou-yamada-bocchi-the-rock-gif-27014738](https://i.pinimg.com/originals/9c/da/fa/9cdafabaaeaffba4c9c03e36b4bca6e6.gif))
+![Ryo Yamada eating leaves](/assets/konakonagifs-sleeping.gif)
